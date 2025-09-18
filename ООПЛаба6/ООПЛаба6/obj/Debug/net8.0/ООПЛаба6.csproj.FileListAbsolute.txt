@@ -1,0 +1,14 @@
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\obj\Debug\net8.0\ООПЛаба6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\obj\Debug\net8.0\ООПЛаба6.AssemblyInfoInputs.cache
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\obj\Debug\net8.0\ООПЛаба6.AssemblyInfo.cs
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\obj\Debug\net8.0\ООПЛаба6.csproj.CoreCompileInputs.cache
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\bin\Debug\net8.0\ООПЛаба6.exe
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\bin\Debug\net8.0\ООПЛаба6.deps.json
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\bin\Debug\net8.0\ООПЛаба6.runtimeconfig.json
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\bin\Debug\net8.0\ООПЛаба6.dll
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\bin\Debug\net8.0\ООПЛаба6.pdb
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\obj\Debug\net8.0\ООПЛаба6.dll
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\obj\Debug\net8.0\refint\ООПЛаба6.dll
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\obj\Debug\net8.0\ООПЛаба6.pdb
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\obj\Debug\net8.0\ООПЛаба6.genruntimeconfig.cache
+C:\Users\Леха насос\source\repos\ООПЛаба6\ООПЛаба6\obj\Debug\net8.0\ref\ООПЛаба6.dll
