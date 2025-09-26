@@ -1,0 +1,4 @@
+InvalidFileFormatException: Invalid integer: '1 2 3 4 5 6'
+   at DataLoader.ParseIntegers(String[] lines, Int32& index, Int32 count) in C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\DataLoader.cs:line 100
+   at DataLoader.LoadSetsFromFile(String filePath) in C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\DataLoader.cs:line 41
+   at Program.Main() in C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\Program.cs:line 15

@@ -1,0 +1,15 @@
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\bin\Debug\net8.0\Лаба7ООП.exe
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\bin\Debug\net8.0\Лаба7ООП.deps.json
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\bin\Debug\net8.0\Лаба7ООП.runtimeconfig.json
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\bin\Debug\net8.0\Лаба7ООП.dll
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\bin\Debug\net8.0\Лаба7ООП.pdb
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\obj\Debug\net8.0\Лаба7ООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\obj\Debug\net8.0\Лаба7ООП.AssemblyInfoInputs.cache
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\obj\Debug\net8.0\Лаба7ООП.AssemblyInfo.cs
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\obj\Debug\net8.0\Лаба7ООП.csproj.CoreCompileInputs.cache
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\obj\Debug\net8.0\Лаба7ООП.dll
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\obj\Debug\net8.0\refint\Лаба7ООП.dll
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\obj\Debug\net8.0\Лаба7ООП.pdb
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\obj\Debug\net8.0\Лаба7ООП.genruntimeconfig.cache
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\obj\Debug\net8.0\ref\Лаба7ООП.dll
+C:\Users\Леха насос\source\repos\Лаба7ООП\Лаба7ООП\bin\Debug\net8.0\input.txt
